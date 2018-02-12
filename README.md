@@ -7,7 +7,7 @@
 
 (Abstract here - basically your pitch with some modification - but short overview)
 (TEASER IMAGE HERE - should wow me to read your work)
-
+![**Saint Lucie Nuclear Power Station**](images/SLNPS.png)
 
 
 (directions, - remove)
