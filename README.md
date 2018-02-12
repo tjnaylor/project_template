@@ -1,9 +1,9 @@
 # IDS6145(SimTech 2018) - Research Plan (Template)
 (remember all text between brackets to be removed in proposal and final, like template above)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Denominators
+> * Group participants names: Jared Clark, Kamryx Davis & Jacob "TJ" Naylor
+> * Project Title: Model Emergency Replenishment Supply Chain to the Port Saint Lucie, Florida Nuclear Power Station 
 
 (Abstract here - basically your pitch with some modification - but short overview)
 (TEASER IMAGE HERE - should wow me to read your work)
