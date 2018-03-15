@@ -1,4 +1,4 @@
-# IDS6145(SimTech 2018) - Research Plan (test)
+# IDS6145(SimTech 2018) - Research Plan
 
 > * Group Name: Denominators
 > * Group participants names: Jared Clark, Kamryx Davis & Jacob "TJ" Naylor
