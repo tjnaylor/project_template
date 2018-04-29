@@ -63,7 +63,7 @@ Due to the complex nature of emergency management operations the answer to the p
 ## Research Methods
 We will be using AnyLogic. A mixture of discrete event based simulation and agent based simulation. Discrete event based simulation will be used because the supply replenishment is triggered by the natural disaster to the power plant. Agent based simulation will be used because based on the conditions agents will distribute and replenish the supplies to agents at the nuclear plant and agents in the civilian population. We will be using imported data from various sources.
 
-This research uses the Federal Emergency Management Agency (FEMA) National Response Framework, focusing on response, (figure 1) as well as a FEMA  inspired  [**Scenario**](proposal/HurricaneScenariov2.docx) to address the disaster response situation. This research does not require the use of human subjects; however, a scenario was developed to scope response efforts and guide our simulation research. As stated previously, Anylogic will be used to simulate the supply chain for replenishment and disaster relief efforts. Three simulation iterations will be executed to help identify the most effective combination of transportation (land, sea, air) methods to provide support to the distressed populace and nuclear power station. The supply chain will be limited to no more than three locations on a given supply route and travel no further than 60 miles and all vehicles will undergo routine maintenance during the time of use. Timestamps of each transportation combination will be taken to distinguish the most successful resupply operations. Lastly,  we will use GIS and SPF consumption  datasets to plan disaster repsonse operations for the Port Saint Lucie nuclear power station.
+This research uses the Federal Emergency Management Agency (FEMA) National Response Framework, focusing on response, (figure 1) as well as a FEMA  inspired  			 [**Scenario**](./proposal/HurricaneScenariov2.docx) to address the disaster response situation. This research does not require the use of human subjects; however, a scenario was developed to scope response efforts and guide our simulation research. As stated previously, Anylogic will be used to simulate the supply chain for replenishment and disaster relief efforts. Three simulation iterations will be executed to help identify the most effective combination of transportation (land, sea, air) methods to provide support to the distressed populace and nuclear power station. The supply chain will be limited to no more than three locations on a given supply route and travel no further than 60 miles and all vehicles will undergo routine maintenance during the time of use. Timestamps of each transportation combination will be taken to distinguish the most successful resupply operations. Lastly,  we will use GIS and SPF consumption  datasets to plan disaster repsonse operations for the Port Saint Lucie nuclear power station.
 
 ![**FEMA NRF**](images/FEMANRF.png)
 
@@ -76,6 +76,8 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 ## Future Work
 (final only - remove whole section for proposal Readme) (if you had 6 more months what would be the next steps in this project.) (What are a few questions you have now)
 
+![Hurricane created from Python then coverted to a gif](https://j.gifs.com/W7X06X.gif)
+
 ## References
 
 ““Backgrounder on Emergency Preparedness at Nuclear Power Plants.” United States Nuclear Regulatory Commission - Protecting People and the Environment, U.S. NRC, 17 Feb. 2017, www.nrc.gov/reading-rm/doc-collections/fact-sheets/emerg-plan-prep-nuc-power.html.
@@ -85,8 +87,6 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 CNN Library. “Hurricane Statistics Fast Facts.” CNN, Cable News Network, 15 May 2017, www.cnn.com/2013/05/31/world/americas/hurricane-statistics-fast-facts/index.html.
 Commonwealth of Massachusetts. 2013 State Hazard Mitigation Plan: Section 11. Hurricane and Tropical Storms, www.mass.gov/eopss/docs/mema/resources/plans/state-hazard-mitigation-plan/section-11-hurricane.pdf.
 
-Dedman, Bill. “What Are the Odds? US Nuke Plants Ranked by Quake Risk.” NBCNews.com, NBCUniversal News Group, 17 Mar. 2011, www.nbcnews.com/id/42103936/ns/world_news-asia_pacific/t/what-are-odds-us-nuke-plants-ranked-quake-risk/.
-
 Dudenhoefer, Nicole. “As Hurricane Irma Approaches, Orlando Will Need Volunteers. Here's How You Can Help.” Orlando Weekly, Orlando Weekly, 14 Oct. 2017, www.orlandoweekly.com/Blogs/archives/2017/09/07/orlando-will-need-volunteers-for-shelters-heres-how-you-can-help.
 
 “Florida Average Household Size, 2009-2013 by County.” Index Mundi, Index Mundi, www.indexmundi.com/facts/united-states/quick-facts/florida/average-household-size#map.
@@ -94,7 +94,9 @@ Dudenhoefer, Nicole. “As Hurricane Irma Approaches, Orlando Will Need Voluntee
 Grant, Kinsey. “Hurricane Irma: Two Nuclear Power Plants in Florida to Close Ahead of Storm.” TheStreet, TheStreet, 7 Sept. 2017, www.thestreet.com/story/14297649/1/hurricane-irma-two-nuclear-power-plants-in-florida-to-close-ahead-of-storm.html.
 
 Germany, ZEIT ONLINE GmbH Hamburg. “How Many People Live near a Nuclear Power Plant in the USA?” ZEIT ONLINE, ZEIT ONLINE, opendata.zeit.de/nuclear-reactors-usa/#%2Fen%2Fflorida.
+
 Hebdon, F.J. “Effect of Hurricane Andrew on the Turkey Point Nuclear Generating Station from August 20--30, 1992. [Final Report].” OTSI.GOV, U.S. Department of Energy Office of Scientific and Technical Information, 1 Mar. 1993, www.osti.gov/servlets/purl/10158520.
+
 “Population within 10 and 50 Miles of Nuclear Power Plants.” NBCNews.com, NBCUniversal News Group, 13 Apr. 2011, www.nbcnews.com/id/42553681/ns/us_news/t/population-within-miles-nuclear-power-plants/#.Wol71WbMxTY.
 
 UN Office for the Coordination of Humanitarian Affairs. “The Caribbean: Hurricane Irma Situation Report No. 04 (as of 10 of September 2017).” ReliefWeb, OCHA, 10 Sept. 2017, reliefweb.int/report/antigua-and-barbuda/caribbean-hurricane-irma-situation-report-no-04-10-september-2017.
