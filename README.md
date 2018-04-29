@@ -12,6 +12,8 @@ Natural disasters such as earthquakes, tsunami’s and hurricanes cause extensiv
 ![**Saint Lucie Nuclear Power Station**](images/SLNPS.png)
 
 
+![Hurricane created from Python then coverted to a gif](https://j.gifs.com/W7X06X.gif)
+
 ## General Introduction
 
 Natural disasters cause significant damage and require substantial resources to support the affected area. Allocating emergency resources is a critical requirement for emergency managers at all levels and requires a great deal of planning and preparation prior to an incident (NRC, 2017, pg. 1). More recently, the hurricane damage in 2017 to Key West, Florida and Puerto Rico are prime examples of how difficult and extensive hurricane damage can be.  Additionally, the Haiti earthquake in 2010 is another example of severe consequences of a natural disaster, however, the relief efforts for those examples would have been exacerbated if the incident affected a nuclear facility. Considering disasters such as Fukushima Daiichi, it is imperative that nuclear facilities practice procedures to handle natural disasters and mitigate further damage to the affected area. Locally, the Port Saint Lucie, Florida Nuclear Power Station requires significant support should a natural disaster affect the area. In 2011, MSNBC using 2010 Census data conducted a study on populations within 5,10, 20 and 50 miles of nuclear power plants in the United States (Dedman, 2011). The Port Saint Lucie power plant was one of the sixty-five locations studied out of the 104 commercial nuclear power reactors in the United States. The population within 10 miles of Port Saint Lucie was 206,595 and 1,271,947 within 50 miles. The population increase from the 2000 Census was 49.7 percent and 37 percent respectively (Dedman, 2011). Given the large population within 50 miles of the Port Saint Lucie nuclear power station, logistics support to the power plant and the local community following a natural disaster is critical.
@@ -96,7 +98,6 @@ The research questions below are provided to expand upon some of the previously 
 3.	What other ways can you model disaster relief in Anylogic or other modeling and simulation tools to improve disaster relief response?
 
 
-![Hurricane created from Python then coverted to a gif](https://j.gifs.com/W7X06X.gif)
 
 ## References
 
