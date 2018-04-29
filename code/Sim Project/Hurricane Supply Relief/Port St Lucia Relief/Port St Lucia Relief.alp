@@ -1728,7 +1728,7 @@
 						<Title><![CDATA[Truck Usage]]></Title>
 					<Expression><![CDATA[my_dataset]]></Expression>
 					<Color>-4343957</Color>
-					<Expression2><![CDATA[(this.trucks.trucksToDistro() + this.trucks.trucksReturning() + this.trucks.trucksUnloading()) * (0.0667 * 100)]]></Expression2>
+					<Expression2><![CDATA[(this.trucks.trucksToDistro() + this.trucks.trucksReturning() + this.trucks.trucksUnloading()) * (0.333 * 100)]]></Expression2>
 					<Expression2Flag>true</Expression2Flag>
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
@@ -1878,7 +1878,7 @@
 						<Title><![CDATA[Helo Usage]]></Title>
 					<Expression><![CDATA[my_dataset]]></Expression>
 					<Color>-65281</Color>
-					<Expression2><![CDATA[(this.heloes.movingToNPP() + this.heloes.heloUnloading() + this.heloes.movingToAFB()) * (0.333 * 100)]]></Expression2>
+					<Expression2><![CDATA[(this.heloes.movingToNPP() + this.heloes.heloUnloading() + this.heloes.movingToAFB()) * (1 * 100)]]></Expression2>
 					<Expression2Flag>true</Expression2Flag>
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
@@ -6505,7 +6505,7 @@ getPresentation().setPresentable( getEngine().getRoot() );]]></ActionCode>
 		<!--   =========   Simulation Experiment   ========  -->
 		<SimulationExperiment ActiveObjectClassId="1523652507208">
 			<Id>1524876017494</Id>
-			<Name><![CDATA[Run1]]></Name>
+			<Name><![CDATA[Runs]]></Name>
 			<ClientAreaTopLeft><X>0</X><Y>0</Y></ClientAreaTopLeft>
 			<PresentationTopGroupPersistent>true</PresentationTopGroupPersistent>
 			<IconTopGroupPersistent>true</IconTopGroupPersistent>
@@ -6577,13 +6577,13 @@ getPresentation().setPresentable( getEngine().getRoot() );]]></ActionCode>
 				<Parameter>
 					<ParameterName><![CDATA[numberTrucks]]></ParameterName>
 					<ParameterValue Class="CodeValue">
-						<Code><![CDATA[15]]></Code>
+						<Code><![CDATA[7]]></Code>
 					</ParameterValue>
 				</Parameter>
 				<Parameter>
 					<ParameterName><![CDATA[numberHelos]]></ParameterName>
 					<ParameterValue Class="CodeValue">
-						<Code><![CDATA[3]]></Code>
+						<Code><![CDATA[2]]></Code>
 					</ParameterValue>
 				</Parameter>
 				<Parameter>
