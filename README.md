@@ -4,7 +4,7 @@
 > * Group participants names: Jared Clark, Kamryx Davis & Jacob "TJ" Naylor
 > * Project Title: Model Emergency Replenishment Supply Chain to the Port Saint Lucie, Florida Nuclear Power Station
 
-##Abstract:
+## Abstract:
 
 Natural disasters such as earthquakes, tsunami’s and hurricanes cause extensive damage to the affected areas and require substantial resources to rebuild the communities. Emergency managers at all levels must diligently allocate resources and supply replenishments. It is a process that involves a great deal of planning and preparation prior to an incident (NRC, 2017, pg. 1). In 2011, Port Saint Lucie nuclear power plant had 1,271,947 people living within 50 miles. The large population near the Port Saint Lucie nuclear power station, requires significant logistics resources to replenish the power plant and the local community following a natural disaster. This study uses Anylogic to model the emergency replenishment supply chain to the Port Saint Lucie, FL Nuclear Power Station after a natural disaster damages both primary and auxiliary power. The resupplying of the nuclear plant provides vital supplies to the plant to prevent a nuclear reactor accident as well as humanitarian aid to the local community. This study supports disaster relief efforts to a local community and provides solutions to emergency response leaders on how to logistically provide aid to the area in the event of a natural disaster and a possible reactor accident.
 
@@ -14,7 +14,7 @@ Natural disasters such as earthquakes, tsunami’s and hurricanes cause extensiv
 
 ## General Introduction
 
-Natural disasters cause significant damage and require substantial resources to support the affected area. Allocating emergency resources is a critical requirement for emergency managers at all levels and requires a great deal of planning and preparation prior to an incident (NRC, 2017, pg. 1). More recently, the hurricane damage in 2017 to Key West, Florida and Puerto Rico are prime examples of how difficult and extensive hurricane damage can be.  Additionally, the Haiti earthquake in 2010 is another example of severe consequences of a natural disaster, however, the relief efforts for those examples would have been exacerbated if the incident affected a nuclear facility. Considering disasters such as Fukushima Daiichi, it is imperative that nuclear facilities practice procedures to handle natural disasters and mitigate further damage to the affected area. Locally, the Port Saint Lucie, Florida Nuclear Power Station requires significant support should a natural disaster affect the area. In 2011, MSNBC using 2010 Census data conducted a study on populations within 5,10, 20 and 50 miles of nuclear power plants in the United States (Dedman, 2011). The Port Saint Lucie power plant was one of the sixty-five locations studied out of the 104 commercial nuclear power reactors in the United States. The population within 10 miles of Port Saint Lucie was 206,595 and 1,271,947 within 50 miles. The population increase from the 2000 Census was 49.7 percent and 37 percent respectively (Dedman, 2011). Given the large population within 50 miles of the Port Saint Lucie nuclear power station, logistics support to the power plant and the local community following a natural disaster is critical. 
+Natural disasters cause significant damage and require substantial resources to support the affected area. Allocating emergency resources is a critical requirement for emergency managers at all levels and requires a great deal of planning and preparation prior to an incident (NRC, 2017, pg. 1). More recently, the hurricane damage in 2017 to Key West, Florida and Puerto Rico are prime examples of how difficult and extensive hurricane damage can be.  Additionally, the Haiti earthquake in 2010 is another example of severe consequences of a natural disaster, however, the relief efforts for those examples would have been exacerbated if the incident affected a nuclear facility. Considering disasters such as Fukushima Daiichi, it is imperative that nuclear facilities practice procedures to handle natural disasters and mitigate further damage to the affected area. Locally, the Port Saint Lucie, Florida Nuclear Power Station requires significant support should a natural disaster affect the area. In 2011, MSNBC using 2010 Census data conducted a study on populations within 5,10, 20 and 50 miles of nuclear power plants in the United States (Dedman, 2011). The Port Saint Lucie power plant was one of the sixty-five locations studied out of the 104 commercial nuclear power reactors in the United States. The population within 10 miles of Port Saint Lucie was 206,595 and 1,271,947 within 50 miles. The population increase from the 2000 Census was 49.7 percent and 37 percent respectively (Dedman, 2011). Given the large population within 50 miles of the Port Saint Lucie nuclear power station, logistics support to the power plant and the local community following a natural disaster is critical.
 
 Currently, the Nuclear Regulatory Commission (NRC) along with federal and local agencies conduct biennial training for emergency preparedness of nuclear facilities across the United States (NRC, 2017, pg. 1). The emergency preparedness training primarily focuses on the response to and mitigation of radiation exposure to the public. Given the scope of the NRCs training with the nuclear facilities, there is little emphasis on logistics planning outside of the immediate containment and mitigation of nuclear radiation which leaves a preparedness gap for humanitarian support to the local community. This study uses Anylogic to model the emergency replenishment supply chain to the Port Saint Lucie, FL Nuclear Power Station after a natural disaster damages both primary and auxiliary power to prevent a nuclear reactor accident similar to Fukushima Daiichi. The purpose of this research is to determine how to replenish the nuclear power station and supply the local populace in a degraded environment after a major hurricane. Due to the significant damage from the hurricane, we hypothesize that the nuclear power station will require limited replenishment, approximately 176,515 personnel will remain in the Port Saint Lucie area and require logistics support and that aerial and ground transportation is the most successful transportation combination to replenish the nuclear power station and supply the local populace. Refinement of emergency response plans will save lives due to decreased response times and also reduce risk to critical infrastructure. This project makes the following contributions:
 
@@ -36,6 +36,11 @@ The logistics support to the Port Saint Lucie nuclear power station following a 
 
 # Behavioral Diagram
 ![**Behavioral Diagram**](images/Emergency_Resp_Act_Diagram.png)
+
+# Anylogic Model
+
+The program AnyLogic was used to create a model of disaster relief distribution in the Port St Lucie area after a hurricane has powered through the area. The model consists of several elements including agents/populations, state diagrams, process flow blocks, parameters, graphs and statistics. This model serves as a great framework to build upon in future. The discription of the Anylogic model is located in a word document [here](other/Model_Framework.docx).
+
 
 
 ## Fundamental Questions
@@ -74,7 +79,22 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 (final only - remove whole section for proposal Readme) (What would you have done differently) (What are the contributions summerize)(what is the big take away)(what did you learn)
 
 ## Future Work
-(final only - remove whole section for proposal Readme) (if you had 6 more months what would be the next steps in this project.) (What are a few questions you have now)
+The current framework is the foundation we will use to enhance our research over the next six months and beyond. The research items are listed below.
+
+1.	Improve the supply calculations to make the framework more robust for disaster relief operations. This includes adding usage or burn rates for supplies and the spent fuel pool. It also includes varying the amount of supplies burned at each supply node so the usage rate varies amongst  them and increases the demand and stress on the supply chain.
+
+2.	Incorporate autonomous vehicles in the supply chain distribution for disaster relief to advance existing research. This includes autonomous delivery trucks as well as autonomous drones and helicopters. Using autonomous vehicles alleviates the need for crew rest and potentially increases the number of supply deliveries conducted within a 24-hour period.  Another consideration is to add vehicles with alternative fuel sources to support disaster relief operations. This also include addressing different behaviors that are relevant to vehicle usage such as durability, gas mileage, and terrain factors. Changing the vehicle fuel source should decrease fuel costs for both private and government organizations.
+
+3.	Increase the hurricane category from 4 to a category 5. It will increase the amount of supplies and water needed for the spent fuel pool. Include alternate supply routes with and without obstacles to better portray road conditions following a hurricane. Though we accounted for the need to evacuate medical emergencies, the category 4 hurricane did not cause enough damage to require the local hospitals to transport medical emergencies to the Naval hospital ship located in vicinity of Boynton Beach. The category 5 hurricane will likely cause enough damage to stress local hospitals.
+
+
+The research questions below are provided to expand upon some of the previously suggested research improvements.
+
+1.	Based on the conditions of the category 5 hurricane, what combinations of transportation would be most efficient?
+2.	How will the addition of autonomous vehicles and drones affect the delivery of supplies to the supply nodes and the Port St. Lucie surrounding area?
+
+3.	What other ways can you model disaster relief in Anylogic or other modeling and simulation tools to improve disaster relief response?
+
 
 ![Hurricane created from Python then coverted to a gif](https://j.gifs.com/W7X06X.gif)
 
