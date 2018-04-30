@@ -41,7 +41,7 @@ The logistics support to the Port Saint Lucie nuclear power station following a 
 
 # Anylogic Model
 
-The program AnyLogic was used to create a model of disaster relief distribution in the Port St Lucie area after a hurricane has powered through the area. The model consists of several elements including agents/populations, state diagrams, process flow blocks, parameters, graphs and statistics. This model serves as a great framework to build upon in future. The discription of the Anylogic model is located in a word document [here](other/Model_Framework.docx).
+The program AnyLogic was used to create a model of disaster relief distribution in the Port St Lucie area after a hurricane has powered through the area. The model consists of several elements including agents/populations, state diagrams, process flow blocks, parameters, graphs and statistics. This model serves as a great framework to build upon in future. The discription of the Anylogic model is located in a word document [here](other/Model_Framework.docx). Additionally, two videos ([video 1](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2F4mpysegv28c&data=02%7C01%7CTj.naylor%40knights.ucf.edu%7C40a2eb8b0a704a7cdeba08d5ae22d718%7C5b16e18278b3412c919668342689eeb7%7C0%7C0%7C636606387832244713&sdata=rk8hi4oubodT%2BfNTvrOgHg5uIkuUPGNPxG2C2AIEmSA%3D&reserved=0) and [video 2](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FLgQwYuQrvjo&data=02%7C01%7CTj.naylor%40knights.ucf.edu%7C40a2eb8b0a704a7cdeba08d5ae22d718%7C5b16e18278b3412c919668342689eeb7%7C0%7C0%7C636606387832244713&sdata=Z2sPt8M2nvkHggRcfAhkLQZpVbgycFaw%2F2RfU8KxSUg%3D&reserved=0)) are provided that describe setup and execution of the Anylogic model and statistics collection.
 
 
 
