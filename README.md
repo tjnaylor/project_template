@@ -83,9 +83,6 @@ The following assumptions were made for this study:
 
 8. The Port Saint Lucie Power Station damage assessment clears the facility of damages but spent fuel pool level critically low.
 
-## Expected Results
-Due to the complex nature of emergency management operations the answer to the problem will be multifaceted and dynamic as conditions change. We predict that the most efficient mode to transport relief materials will be a combination of air and sea based assets until road conditions can be cleared. We also predict that stationing critical nodes for supplies will be crucial to providing assistance to both the NPS and surrounding area. The nodes will be dedicated to either providing NPS replenishment or humanitarian aid because of their unique needs. We predict that 42% of the population will remain in the local area however, the number of resources required will be dependent on the severity of the conditions.
-
 ## Research Methods
 We will be using AnyLogic. A mixture of discrete event based simulation and agent based simulation. Discrete event based simulation will be used because the supply replenishment is triggered by the natural disaster to the power plant. Agent based simulation will be used because based on the conditions agents will distribute and replenish the supplies to agents at the nuclear plant and agents in the civilian population. We will be using imported data from various sources.
 
