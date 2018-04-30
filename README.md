@@ -93,6 +93,9 @@ This research uses the Federal Emergency Management Agency (FEMA) National Respo
 Figure 1: Mission Integration within the National Preparedness System (FEMA 2015)
 
 Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@knights.ucf.edu.
+
+## Results
+
 ## Discussion
 (final only - remove whole section for proposal Readme) (What would you have done differently) (What are the contributions summerize)(what is the big take away)(what did you learn)
 
