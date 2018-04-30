@@ -96,6 +96,32 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 
 ## Results
 
+#### Time Distribution Graphs
+* These runs were done with 3 trucks and 1 helicopter. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right. 80% of the truck deliveries arrived within 20 hours of the request at Okeechobee. The same is true for Indiantown, 80% of the truck deliveries arrived within 20 hours of the request. For both distribution sites, all deliveries for the helicopters were delivered within 1.5 hours. For each site, the vehicles took the same direct route and traveled the same distance. 
+![**Time Duistribution for Okeechobee and Indiantown, Runs 1 and 4 **](images/run14_distro.png)
+
+* These runs were done with 7 trucks and 2 helicopters. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right. For both the distibution sites of Okeechobee and Indiantown, almost 70% of the trucks deliveries arrived within 20 hours of the request. For both sites, helicopters delivered within 1.5 hours of the request. For each site, the vehicles took the same direct route and traveled the same distance.
+![**Time Duistribution for Okeechobee and Indiantown, Runs 2 and 5 **](images/run25_distro.png)
+
+* These runs were done with 15 trucks and 3 helicopters. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right. For both sites, Okeechobee and Indiantown, 35% of trucks delivered supplies within 20 hours of the request. For both sites, the 3 helicopters delivered to the power station within 1.5 hours of the request. For each site, the vehicles traveled the same direct route and traveled the same distance. 
+![**Time Duistribution for Okeechobee and Indiantown, Runs 3 and 6 **](images/run36_distro.png)
+
+#### Number of Agents within a Given State Graphs
+* These graphs report what state the agents are in at any given time in the simulation for both trucks and helicopters, we can see where the agents are being used at. These graphs track the agents on their way to deliver, agents that are at the supply node, and the number of agents that are returning to the supply node. The more vehicles there are, the more they are staying in the supply hub because they are not needed. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right.
+![**Number of Agents within a Given State for Okeechobee and Indiantown, Runs 1 and 4 **](images/run14.png)
+![**Number of Agents within a Given State for Okeechobee and Indiantown, Runs 2 and 5 **](images/run25.png)
+![**Number of Agents within a Given State for Okeechobee and Indiantown, Runs 3 and 6 **](images/run36.png)
+
+#### Usage Percentage and Deliveries Graphs
+* These runs were done with 3 trucks and 1 helicopter. Indiantown’s run is displayed on the left while Okeechobee’s run is displayed on the right. The delivery rate for trucks was once a day per site. The delivery rate for helicopters was twice a day for the power station. No matter what site the trucks delivered to, the trucks had a 100% usage rate, more than half of the time at the same site. There was only 1 helicopter, so it had usage rates of 100% when it was being used, and 0% when it was not, which was expected. The helicopter was under used for both sites. When Indiantown was the distribution site, Port St. Lucie received the most deliveries, 4 over a 7-day span. When Okeechobee was the distribution site, Indiantown received the most deliveries, 4 over a 7-day span. No truck reached the 7 total deliveries requested from each site.  For both distribution sites, the helicopters delivered the 10 of the 14 needed deliveries to the Port Saint Lucie Nuclear Power Plant.  Both sites made a total of 26 deliveries. 
+![**Indiantown and Okeechobee, Runs 1 and 4 **](images/run14_delivery.png)
+
+* These runs were done with 7 trucks and 2 helicopters. Indiantown’s run is displayed on the left while Okeechobee’s run is displayed on the right. The delivery rate for trucks was once a day per site. The delivery rate for helicopters was twice a day for the power station. 100% usage rates occurred for both locations for the trucks, but it’s less than the 3-truck usage rate. Many helicopters have now reached under 100% usage rate when they are being used. There is lots of down time, when the helicopters are not doing anything for both sites. For both sites the powerplant got all the requested deliveries. When Indiantown was the distribution site, only 1 site got all 7 requested deliveries which was Sebastian. Only 1 site got 2 requested deliveries which was Boynton Beach. When the distribution site was based out of Okeechobee, 3 sites got 3 of their requested orders and only 1 site which was also Sebastian received all 7 deliveries.  Both distribution sites made 25 deliveries just varying locations. 
+![**Indiantown and Okeechobee, Runs 2 and 5 **](images/run25_delivery.png)
+
+* These runs were done with 15 trucks and 3 helicopters. Indiantown’s run is displayed on the left while Okeechobee’s run is displayed on the right. The delivery rate for trucks was once a day per site. The delivery rate for helicopters was twice a day for the power station. For both distribution sites, all the helicopters have under an 80% usage percentage and there was only a small amount of time the trucks’ usage rate was at 100%. A majority of truck usage was 80% for both towns. For the helicopters the powerplant received all required 14 deliveries at both locations. For Indiantown as the distribution location, half the sites received the required 7 deliveries. The lowest delivery was 3 at Sebastian. For Okeechobee as the distribution location, half of the sites received the required 7 deliveries, the lowest was 3 also at Sebastian.
+![**Indiantown and Okeechobee, Runs 3 and 6 **](images/run36_delivery.png)
+
 ## Discussion
 (final only - remove whole section for proposal Readme) (What would you have done differently) (What are the contributions summerize)(what is the big take away)(what did you learn)
 
