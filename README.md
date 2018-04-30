@@ -122,6 +122,8 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 * These runs were done with 15 trucks and 3 helicopters. Indiantown’s run is displayed on the left while Okeechobee’s run is displayed on the right. The delivery rate for trucks was once a day per site. The delivery rate for helicopters was twice a day for the power station. For both distribution sites, all the helicopters have under an 80% usage percentage and there was only a small amount of time the trucks’ usage rate was at 100%. A majority of truck usage was 80% for both towns. For the helicopters the powerplant received all required 14 deliveries at both locations. For Indiantown as the distribution location, half the sites received the required 7 deliveries. The lowest delivery was 3 at Sebastian. For Okeechobee as the distribution location, half of the sites received the required 7 deliveries, the lowest was 3 also at Sebastian.
 ![**Indiantown and Okeechobee, Runs 3 and 6 **](images/run36_delivery.png)
 
+* Based on the results, the ideal number of helicopters needed to make deliveries is between 1 and 2. Also based on the results, the ideal number of trucks needed to make deliveries is somewhere between 7 and 15. 
+
 ## Discussion
 (final only - remove whole section for proposal Readme) (What would you have done differently) (What are the contributions summerize)(what is the big take away)(what did you learn)
 
