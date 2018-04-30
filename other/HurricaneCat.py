@@ -1,7 +1,11 @@
 #sources 
+ #Pygame base template for opening a window
+ #Sample Python/Pygame Programs
+ #Simpson College Computer Science
+ #http://programarcadegames.com/
+#http://simpson.edu/computer-science/
 # Pygame spiral drawing function
 # Copyright David Barker 2010
-#PROGRamarcadegames.com
 #https://inventwithpython.com/pygame/chapter2.html
 #https://www.pygame.org/project/1649/2871
 #http://www.pygame.org/project-DrawSpiral()+function-1649-.html
