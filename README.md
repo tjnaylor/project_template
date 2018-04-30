@@ -63,6 +63,25 @@ Dedman (2011) discussed the growing population in and around nuclear power plant
 
 Sweeney (2017) discussed the probability of Floridians evacuating the area when the governor gives an evacuation order to residents. He identified that approximately 42% of Floridians will likely remain with the home and pets during a natural disaster. His research on the evacuation tendencies of Floridians during a natural disaster helped inform our population estimates and logistics requirements for Port Saint Lucie area during a disaster response.
 
+## Assumptions
+
+The following assumptions were made for this study:
+
+1. All volunteered transportation equipment included operators and maintenance support.
+
+2. Approximately 176,515 residents remain in the Port Saint Lucie area with minimal resources after the hurricane.
+
+3. Only life threatening injuries are transported to the Navy Hosiptal located in vicinty of Boynton Beach, FL.
+
+4. A category 4 hurricane requires at least one week of support beyond the local level to provide adeqate support and supplies to the local area.
+
+5. Schools that are not severely damaged by the hurricane are approved at the state level to serve as distribution locations and shelter to support the local populace.
+
+6. Bulk water for bathing and general use provided by the Hillsborough County Falkenburg Road Advanced Water Treatment Plant. As a result, this area was not focused on for this study.
+
+7. Limited communications capability for the first week following the hurricane.
+
+8. The Port Saint Lucie Power Station damage assessment clears the facility of damages but spent fuel pool level critically low.
 
 ## Expected Results
 Due to the complex nature of emergency management operations the answer to the problem will be multifaceted and dynamic as conditions change. We predict that the most efficient mode to transport relief materials will be a combination of air and sea based assets until road conditions can be cleared. We also predict that stationing critical nodes for supplies will be crucial to providing assistance to both the NPS and surrounding area. The nodes will be dedicated to either providing NPS replenishment or humanitarian aid because of their unique needs. We predict that 42% of the population will remain in the local area however, the number of resources required will be dependent on the severity of the conditions.
@@ -81,23 +100,23 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 (final only - remove whole section for proposal Readme) (What would you have done differently) (What are the contributions summerize)(what is the big take away)(what did you learn)
 
 ## Future Work
+
 The current framework is the foundation we will use to enhance our research over the next six months and beyond. The research items are listed below.
 
-1.	Improve the supply calculations to make the framework more robust for disaster relief operations. This includes adding usage or burn rates for supplies and the spent fuel pool. It also includes varying the amount of supplies burned at each supply node so the usage rate varies amongst  them and increases the demand and stress on the supply chain.
+1.	Improve the supply calculations to make the framework more robust for disaster relief operations. This includes adding usage or burn rates for supplies and the spent fuel pool. It also includes varying the amount of supplies burned at each supply node so the usage rate varies amongst  them and increases the demand and stress on the supply chain. Lastly, increase the amounnt of civilian populace the require support in the Port Saint Lucie and surrounding areas.
 
 2.	Incorporate autonomous vehicles in the supply chain distribution for disaster relief to advance existing research. This includes autonomous delivery trucks as well as autonomous drones and helicopters. Using autonomous vehicles alleviates the need for crew rest and potentially increases the number of supply deliveries conducted within a 24-hour period.  Another consideration is to add vehicles with alternative fuel sources to support disaster relief operations. This also include addressing different behaviors that are relevant to vehicle usage such as durability, gas mileage, and terrain factors. Changing the vehicle fuel source should decrease fuel costs for both private and government organizations.
 
 3.	Increase the hurricane category from 4 to a category 5. It will increase the amount of supplies and water needed for the spent fuel pool. Include alternate supply routes with and without obstacles to better portray road conditions following a hurricane. Though we accounted for the need to evacuate medical emergencies, the category 4 hurricane did not cause enough damage to require the local hospitals to transport medical emergencies to the Naval hospital ship located in vicinity of Boynton Beach. The category 5 hurricane will likely cause enough damage to stress local hospitals.
 
 
-The research questions below are provided to expand upon some of the previously suggested research improvements.
+The research questions below expand upon some of the previously suggested research improvements.
 
 1.	Based on the conditions of the category 5 hurricane, what combinations of transportation would be most efficient?
+
 2.	How will the addition of autonomous vehicles and drones affect the delivery of supplies to the supply nodes and the Port St. Lucie surrounding area?
 
 3.	What other ways can you model disaster relief in Anylogic or other modeling and simulation tools to improve disaster relief response?
-
-
 
 ## References
 
