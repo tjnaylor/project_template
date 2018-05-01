@@ -183,13 +183,15 @@ Dudenhoefer, Nicole. “As Hurricane Irma Approaches, Orlando Will Need Voluntee
 
 “Florida Average Household Size, 2009-2013 by County.” Index Mundi, Index Mundi, www.indexmundi.com/facts/united-states/quick-facts/florida/average-household-size#map.
 
-Grant, Kinsey. “Hurricane Irma: Two Nuclear Power Plants in Florida to Close Ahead of Storm.” TheStreet, TheStreet, 7 Sept. 2017, www.thestreet.com/story/14297649/1/hurricane-irma-two-nuclear-power-plants-in-florida-to-close-ahead-of-storm.html.
-
 Germany, ZEIT ONLINE GmbH Hamburg. “How Many People Live near a Nuclear Power Plant in the USA?” ZEIT ONLINE, ZEIT ONLINE, opendata.zeit.de/nuclear-reactors-usa/#%2Fen%2Fflorida.
+
+Grant, Kinsey. “Hurricane Irma: Two Nuclear Power Plants in Florida to Close Ahead of Storm.” TheStreet, TheStreet, 7 Sept. 2017, www.thestreet.com/story/14297649/1/hurricane-irma-two-nuclear-power-plants-in-florida-to-close-ahead-of-storm.html.
 
 Hebdon, F.J. “Effect of Hurricane Andrew on the Turkey Point Nuclear Generating Station from August 20--30, 1992. [Final Report].” OTSI.GOV, U.S. Department of Energy Office of Scientific and Technical Information, 1 Mar. 1993, www.osti.gov/servlets/purl/10158520.
 
 “Population within 10 and 50 Miles of Nuclear Power Plants.” NBCNews.com, NBCUniversal News Group, 13 Apr. 2011, www.nbcnews.com/id/42553681/ns/us_news/t/population-within-miles-nuclear-power-plants/#.Wol71WbMxTY.
+
+Sweeney, Dan. “Floridians Likely Won't Obey Evacuation Orders in the next Hurricane.” SunSentinel, SunSentinel, 26 Oct. 2017, www.sun-sentinel.com/news/florida/fl-reg-hurricane-evacuation-poll-20171025-story.html.
 
 UN Office for the Coordination of Humanitarian Affairs. “The Caribbean: Hurricane Irma Situation Report No. 04 (as of 10 of September 2017).” ReliefWeb, OCHA, 10 Sept. 2017, reliefweb.int/report/antigua-and-barbuda/caribbean-hurricane-irma-situation-report-no-04-10-september-2017.
 
