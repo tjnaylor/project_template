@@ -179,7 +179,7 @@ Davis, Matthew T., and Micheal D. Proctor. “The Viability of Extraordinary Met
 
 Dedman, Bill. “What Are the Odds? US Nuke Plants Ranked by Quake Risk.” NBCNews.com, NBCUniversal News Group, 17 Mar. 2011, www.nbcnews.com/id/42103936/ns/world_news-asia_pacific/t/what-are-odds-us-nuke-plants-ranked-quake-risk/.
 
-“Disaster Scenario Exercise for Community Planning Critical Power Failure.” FEMA, Department of Homeland Security, 2011, Disaster Scenario Exercise for Community Planning Critical Power Failure.
+“Disaster Scenario Exercise for Community Planning Critical Power Failure.” FEMA, Department of Homeland Security, Jan. 2011, www.fema.gov/pdf/privatesector/ps_ttx_power_failure_jan_11.pdf.
 
 Dudenhoefer, Nicole. “As Hurricane Irma Approaches, Orlando Will Need Volunteers. Here's How You Can Help.” Orlando Weekly, Orlando Weekly, 14 Oct. 2017, www.orlandoweekly.com/Blogs/archives/2017/09/07/orlando-will-need-volunteers-for-shelters-heres-how-you-can-help.
 
