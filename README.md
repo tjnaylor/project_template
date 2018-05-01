@@ -55,6 +55,9 @@ The program AnyLogic was used to create a model of disaster relief supply distri
 
 4.  Based on the disaster and conditions, which mode of transportation (ground, air, and/or sea) would be the most efficient mode to deliver supplies and aid?
 
+5.  Develop a model and simualtion framework for future research into disaster relief for the area
+
+
 ## Literature Review
 
 Davis and Proctor (2016) discussed the concern for a nuclear plant Spent Fuel Pool (SFP) cooling and water replenishment during emergencies and natural disasters. They compared worst-case water loss rates to the published water throughput volumes several alternative water replenishment response methods useful in hypothetical disaster, response and mitigation scenarios. As discussed, this research focused on replenishing the water for the power station and therefore did not discuss the supply chain required to replenish the power station as a whole or the surrounding community. It helped inform our disaster relief concerns as they pertain to the quantity of water required for replenishment of the Port Saint Lucie Nuclear power station SPF.
@@ -97,7 +100,7 @@ Downloaded from americansecuritytoday.com on 2/22/2018 at 10:00 am by tj.naylor@
 ## Results
 
 #### Time Distribution Graphs
-* These runs were done with 3 trucks and 1 helicopter. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right. About 80% of the truck deliveries arrived within 20 hours of the request at Okeechobee. The same is true for Indiantown, about 80% of the truck deliveries arrived within 20 hours of the request. For both distribution sites, all deliveries for the helicopters were delivered within 1.5 hours. For each site, the vehicles took the same direct route and traveled the same distance. 
+* These runs were done with 3 trucks and 1 helicopter. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right. About 80% of the truck deliveries arrived within 20 hours of the request at Okeechobee. The same is true for Indiantown, about 80% of the truck deliveries arrived within 20 hours of the request. For both distribution sites, all deliveries for the helicopters were delivered within 1.5 hours. For each site, the vehicles took the same direct route and traveled the same distance.
 ![**Time Duistribution for Okeechobee and Indiantown, Runs 1 and 4 **](images/run14_distro.png)
 
 * These runs were done with 7 trucks and 2 helicopters. Okeechobee’s run is displayed on the left and Indiantown’s run is displayed on the right. For both the distibution sites of Okeechobee and Indiantown, almost 70% of the trucks deliveries arrived within 20 hours of the request. For both sites, helicopters delivered within 1.5 hours of the request. For each site, the vehicles took the same direct route and traveled the same distance.
@@ -137,6 +140,7 @@ The Port St. Lucie Relief model provides a great framework for disaster relief s
 * Implement vehicle supply node load limits and stress them
 * Escalate the scenario to a Category 5 to test limitations of the civilian and military hospitals
 * Create alternate supply routes and impede their travel
+* Implement a sea aspect of response both supply chain and humanitarian/medical relief
 
 The framework is a beginning step into modeling disaster relief in the Port St Lucie area. We tried to address were the best location was to set up a supply hub. Identifying the number of air and land assets required to accomplish delivery with a set quantity of supplies was also investigated. The number of helicopters required to replenish a nuclear reactor’s spent fuel pool was explored to see if the air assets could be used in different tasks and still maintain the appropriate water level in the pool. While these questions were specifically addressed, the largest contribution is providing a framework to build upon in future problem sets.
 
@@ -149,7 +153,7 @@ The current framework is the foundation we will use to enhance our research over
 
 1.	Improve the supply calculations to make the framework more robust for disaster relief operations. This includes adding usage or burn rates for supplies and the spent fuel pool. It also includes varying the amount of supplies burned at each supply node so the usage rate varies amongst  them and increases the demand and stress on the supply chain. Lastly, increase the amounnt of civilian populace the require support in the Port Saint Lucie and surrounding areas.
 
-2.	Incorporate autonomous vehicles in the supply chain distribution for disaster relief to advance existing research. This includes autonomous delivery trucks as well as autonomous drones and helicopters. Using autonomous vehicles alleviates the need for crew rest and potentially increases the number of supply deliveries conducted within a 24-hour period.  Another consideration is to add vehicles with alternative fuel sources to support disaster relief operations. This also include addressing different behaviors that are relevant to vehicle usage such as durability, gas mileage, and terrain factors. Changing the vehicle fuel source should decrease fuel costs for both private and government organizations.
+2.	Incorporate autonomous vehicles in the supply chain distribution for disaster relief to advance existing research. This includes autonomous delivery trucks as well as autonomous drones and helicopters. Using autonomous vehicles alleviates the need for crew rest and potentially increases the number of supply deliveries conducted within a 24-hour period.  Another consideration is to add vehicles with alternative fuel sources to support disaster relief operations. This also include addressing different behaviors that are relevant to vehicle usage such as durability, gas mileage, and terrain factors. Changing the vehicle fuel source should decrease fuel costs for both private and government organizations. Add the sea response into the disaster relief model.
 
 3.	Increase the hurricane category from 4 to a category 5. It will increase the amount of supplies and water needed for the spent fuel pool. Include alternate supply routes with and without obstacles to better portray road conditions following a hurricane. Though we accounted for the need to evacuate medical emergencies, the category 4 hurricane did not cause enough damage to require the local hospitals to transport medical emergencies to the Naval hospital ship located in vicinity of Boynton Beach. The category 5 hurricane will likely cause enough damage to stress local hospitals.
 
